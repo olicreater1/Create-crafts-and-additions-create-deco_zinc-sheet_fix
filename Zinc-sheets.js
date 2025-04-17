@@ -8,6 +8,20 @@ event.custom({
     ]
   "results":[
     {
+      "item":"createdeco:zinc_sheet"
+    }
+    ]
+})
+//makes create crafts and additions zinc sheets using mechanical press
+event.custom({
+  "type":"create:pressing",
+  "ingredients":[
+    {
+    "item":"create:zinc_ingot"
+    }
+    ]
+  "results":[
+    {
       "item":"createcraftsandadditions:zinc_sheet"
     }
     ]
