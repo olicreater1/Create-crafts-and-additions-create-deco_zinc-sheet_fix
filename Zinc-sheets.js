@@ -22,7 +22,7 @@ event.custom({
     ]
   "results":[
     {
-      "item":"createcraftsandadditions:zinc_sheet"
+      "item":"createaddition:zinc_sheet"
     }
     ]
 })
